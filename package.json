@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "ARUN",
   "license": "ISC",
-  "type":"module",
+  "type": "module",
   "description": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
